@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react'
 import Layouts from '../components/layouts/Layouts';
-import Table from '../components/cards/Table';
 import { useState } from 'react';
 import { Link } from 'react-router-dom/dist';
 

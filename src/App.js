@@ -4,11 +4,10 @@ import MarkPage from "./pages/MarkPage";
 import ElonPage from "./pages/ElonPage";
 import JackPage from "./pages/JackPage";
 import ErrorPage from "./pages/ErrorPage";
-import Navigation from "./components/navbar/Navigation";
-import Footer from "./components/footer/Footer";
+
 import BillPage from "./pages/BillPage";
 import ContactPage from "./pages/ContactPage";
-import { useState } from "react";
+
 import BlogPage from "./pages/BlogPage";
 import Stagiaire from "./pages/Stagiaire";
 import ShowStagiaire from "./pages/ShowStagiaire";

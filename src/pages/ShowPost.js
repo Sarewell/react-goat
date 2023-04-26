@@ -1,8 +1,7 @@
-const [ company, setCompany] =useState("Apple");
+
 import React, { useEffect, useState } from 'react'
 import Layouts from '../components/layouts/Layouts'
 import { useParams } from 'react-router-dom'
-import CardBlog from '../components/cards/CardBlog';
 
 export default function ShowPost() {
     const {id} = useParams();
